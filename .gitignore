@@ -62,6 +62,7 @@ Thumbs.db
 *.out
 main
 mean
+cpp-binary-search
 
 # Crap file
 *crap.cpp
