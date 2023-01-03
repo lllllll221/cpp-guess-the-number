@@ -62,7 +62,7 @@ Thumbs.db
 *.out
 main
 mean
-cpp-binary-search
+cpp-guess-the-number
 
 # Crap file
 *crap.cpp

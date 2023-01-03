@@ -1,6 +1,6 @@
 CC=g++
 CFLAGS=-c -Wall
-TARGET = cpp-binary-search
+TARGET = cpp-guess-the-number
 
 
 all: $(TARGET)
